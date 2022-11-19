@@ -1,4 +1,4 @@
-module github.com/wenjianzhang/redisqueue/v2
+module redisqueue
 
 go 1.12
 
