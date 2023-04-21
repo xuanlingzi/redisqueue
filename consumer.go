@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis/v9"
 	"github.com/pkg/errors"
+	"github.com/redis/go-redis/v9"
 )
 
 // ConsumerFunc is a type alias for the functions that will be used to handle
